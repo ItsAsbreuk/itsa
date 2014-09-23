@@ -1,0 +1,15 @@
+{
+    "name": "Parcela",
+    "description": "Parcela Library",
+    "version": "0.0.7",
+    "url": "https://github.com/Parcela",
+    "options": {
+        "linkNatives": "false",
+        "attributesEmit": "false",
+        "selleck": "false",
+        "ignorePaths": [ "tests" ,"node_modules", "coverage", "site-preview", "site"],
+        "paths": "src/**",
+        "outdir": "./site/api",
+		"tabtospace":4
+    }
+}

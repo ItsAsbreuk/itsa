@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>{title}</title>
+	<link rel="stylesheet" href="/mocha/mocha.css" />
+</head>
+
+<body>
+	<div id="mocha"></div>
+	<script src="/polyfills.min.js"></script>
+	<script src="/mocha/mocha.js"></script>
+	<script src="/mocha/chai.js"></script>
+	<script src="/mocha/chai-as-promised.js"></script>
+	<script>
+		
+		mocha.setup('bdd')
+	</script>
+	<script src="{test}?js=ok"></script>'
+	<script>
+		mocha.checkLeaks();
+		mocha.run();
+	</script>
+</body>
+
+</html>

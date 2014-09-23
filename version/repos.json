@@ -1,0 +1,81 @@
+[
+    {
+        "id": 23717781,
+        "name": "lang-ext",
+        "url": "git@github.com:Parcela/lang-ext.git",
+        "type": 0
+    },
+    {
+        "id": 23729600,
+        "name": "parcel",
+        "url": "git@github.com:Parcela/parcel.git",
+        "type": 0
+    },
+    {
+        "id": 23735595,
+        "name": "utils",
+        "url": "git@github.com:Parcela/utils.git",
+        "type": 0
+    },
+    {
+        "id": 23735967,
+        "name": "virtual-dom",
+        "url": "git@github.com:Parcela/virtual-dom.git",
+        "type": 0
+    },
+    {
+        "id": 23736112,
+        "name": "fake-dom",
+        "url": "git@github.com:Parcela/fake-dom.git",
+        "type": 0
+    },
+    {
+        "id": 23792915,
+        "name": "routing",
+        "url": "git@github.com:Parcela/routing.git",
+        "type": 0
+    },
+    {
+        "id": 23793726,
+        "name": "promise-ext",
+        "url": "git@github.com:Parcela/promise-ext.git",
+        "type": 0
+    },
+    {
+        "id": 23795092,
+        "name": "io",
+        "url": "git@github.com:Parcela/io.git",
+        "type": 0
+    },
+    {
+        "id": 23923245,
+        "name": "parcela.github.io",
+        "url": "git@github.com:Parcela/parcela.github.io.git",
+		"branch": "draft",
+        "type": 1
+    },
+    {
+        "id": 23938830,
+        "name": "event",
+        "url": "git@github.com:Parcela/event.git",
+        "type": 0
+    },
+    {
+        "id": 23938861,
+        "name": "event-dom",
+        "url": "git@github.com:Parcela/event-dom.git",
+        "type": 0
+    },
+    {
+        "id": 24141071,
+        "name": "event-mobile",
+        "url": "git@github.com:Parcela/event-mobile.git",
+        "type": 0
+    },
+    {
+        "id": 23990956,
+        "name": "parcela",
+        "url": "git@github.com:Parcela/parcela.git",
+        "type": 0
+    }
+]

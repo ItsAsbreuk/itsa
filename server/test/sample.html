@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>** title goes here **</title>
+	<link rel="stylesheet" href="/mocha/mocha.css" />
+</head>
+
+<body>
+	
+	<!-- 
+		Preserve a div with this id for mocha to show the results.  
+		It can be placed anywhere, as long as it is there -->
+	<div id="mocha"></div>
+	
+	<script src="/polyfills.min.js"></script>
+	
+	<script src="/mocha/mocha.js"></script>
+	<script src="/mocha/should.js"></script>
+	<script>
+		mocha.setup('bdd')
+	</script>
+	<script>
+		/*
+		
+		HERE goes the code to test
+		
+		*/
+	</script>
+	<script>
+		mocha.checkLeaks();
+		mocha.run();
+	</script>
+</body>
+
+</html>

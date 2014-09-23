@@ -1,0 +1,10 @@
+{
+  "name": "polyfills",
+	"repository":"https://github.com/Financial-Times/polyfill-service",
+  "dependencies": {
+    "semver": "^3.0.1",
+    "tsort": "0.0.1",
+    "uglify-js": "^2.4.15",
+    "useragent": "^2.0.9"
+  }
+}

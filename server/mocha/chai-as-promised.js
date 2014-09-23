@@ -1,0 +1,1 @@
+../../node_modules/chai-as-promised/lib/chai-as-promised.js
